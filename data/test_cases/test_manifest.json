@@ -1,0 +1,102 @@
+[
+  {
+    "id": "test_01",
+    "seriesuid": "ChestCT_normal_172",
+    "patient_id": "ChestCT_normal_172",
+    "clinical_finding": "Normal (\u0e04\u0e19\u0e1b\u0e01\u0e15\u0e34 \u0e41\u0e02\u0e47\u0e07\u0e41\u0e23\u0e07)",
+    "clinical_guideline": "\u0e1b\u0e2d\u0e14\u0e1b\u0e01\u0e15\u0e34 \u0e44\u0e21\u0e48\u0e1e\u0e1a\u0e23\u0e2d\u0e22\u0e42\u0e23\u0e04\u0e15\u0e49\u0e2d\u0e07\u0e2a\u0e07\u0e2a\u0e31\u0e22",
+    "malignancy": "None (Normal)",
+    "texture": "Clear Lung",
+    "image_path": "D:\\test\\dataset_ctscan\\data\\test_cases\\test_01_ChestCT_normal_172.png"
+  },
+  {
+    "id": "test_02",
+    "seriesuid": "ChestCT_normal_173",
+    "patient_id": "ChestCT_normal_173",
+    "clinical_finding": "Normal (\u0e04\u0e19\u0e1b\u0e01\u0e15\u0e34 \u0e41\u0e02\u0e47\u0e07\u0e41\u0e23\u0e07)",
+    "clinical_guideline": "\u0e1b\u0e2d\u0e14\u0e1b\u0e01\u0e15\u0e34 \u0e44\u0e21\u0e48\u0e1e\u0e1a\u0e23\u0e2d\u0e22\u0e42\u0e23\u0e04\u0e15\u0e49\u0e2d\u0e07\u0e2a\u0e07\u0e2a\u0e31\u0e22",
+    "malignancy": "None (Normal)",
+    "texture": "Clear Lung",
+    "image_path": "D:\\test\\dataset_ctscan\\data\\test_cases\\test_02_ChestCT_normal_173.png"
+  },
+  {
+    "id": "test_03",
+    "seriesuid": "ChestCT_normal_174",
+    "patient_id": "ChestCT_normal_174",
+    "clinical_finding": "Normal (\u0e04\u0e19\u0e1b\u0e01\u0e15\u0e34 \u0e41\u0e02\u0e47\u0e07\u0e41\u0e23\u0e07)",
+    "clinical_guideline": "\u0e1b\u0e2d\u0e14\u0e1b\u0e01\u0e15\u0e34 \u0e44\u0e21\u0e48\u0e1e\u0e1a\u0e23\u0e2d\u0e22\u0e42\u0e23\u0e04\u0e15\u0e49\u0e2d\u0e07\u0e2a\u0e07\u0e2a\u0e31\u0e22",
+    "malignancy": "None (Normal)",
+    "texture": "Clear Lung",
+    "image_path": "D:\\test\\dataset_ctscan\\data\\test_cases\\test_03_ChestCT_normal_174.png"
+  },
+  {
+    "id": "test_04",
+    "seriesuid": "ChestCT_adenocar_001",
+    "patient_id": "ChestCT_adenocar_001",
+    "clinical_finding": "Cancer (adenocarcinoma)",
+    "clinical_guideline": "\u0e1e\u0e1a\u0e01\u0e49\u0e2d\u0e19\u0e40\u0e19\u0e37\u0e49\u0e2d\u0e21\u0e30\u0e40\u0e23\u0e47\u0e07\u0e1b\u0e2d\u0e14 \u0e41\u0e19\u0e30\u0e19\u0e33\u0e1b\u0e23\u0e36\u0e01\u0e29\u0e32\u0e41\u0e1e\u0e17\u0e22\u0e4c\u0e40\u0e09\u0e1e\u0e32\u0e30\u0e17\u0e32\u0e07",
+    "malignancy": "Malignant",
+    "texture": "Mass/Nodule",
+    "image_path": "D:\\test\\dataset_ctscan\\data\\test_cases\\test_04_ChestCT_adenocar_001.png"
+  },
+  {
+    "id": "test_05",
+    "seriesuid": "ChestCT_adenocar_002",
+    "patient_id": "ChestCT_adenocar_002",
+    "clinical_finding": "Cancer (adenocarcinoma)",
+    "clinical_guideline": "\u0e1e\u0e1a\u0e01\u0e49\u0e2d\u0e19\u0e40\u0e19\u0e37\u0e49\u0e2d\u0e21\u0e30\u0e40\u0e23\u0e47\u0e07\u0e1b\u0e2d\u0e14 \u0e41\u0e19\u0e30\u0e19\u0e33\u0e1b\u0e23\u0e36\u0e01\u0e29\u0e32\u0e41\u0e1e\u0e17\u0e22\u0e4c\u0e40\u0e09\u0e1e\u0e32\u0e30\u0e17\u0e32\u0e07",
+    "malignancy": "Malignant",
+    "texture": "Mass/Nodule",
+    "image_path": "D:\\test\\dataset_ctscan\\data\\test_cases\\test_05_ChestCT_adenocar_002.png"
+  },
+  {
+    "id": "test_06",
+    "seriesuid": "ChestCT_adenocar_003",
+    "patient_id": "ChestCT_adenocar_003",
+    "clinical_finding": "Cancer (adenocarcinoma)",
+    "clinical_guideline": "\u0e1e\u0e1a\u0e01\u0e49\u0e2d\u0e19\u0e40\u0e19\u0e37\u0e49\u0e2d\u0e21\u0e30\u0e40\u0e23\u0e47\u0e07\u0e1b\u0e2d\u0e14 \u0e41\u0e19\u0e30\u0e19\u0e33\u0e1b\u0e23\u0e36\u0e01\u0e29\u0e32\u0e41\u0e1e\u0e17\u0e22\u0e4c\u0e40\u0e09\u0e1e\u0e32\u0e30\u0e17\u0e32\u0e07",
+    "malignancy": "Malignant",
+    "texture": "Mass/Nodule",
+    "image_path": "D:\\test\\dataset_ctscan\\data\\test_cases\\test_06_ChestCT_adenocar_003.png"
+  },
+  {
+    "id": "test_07",
+    "seriesuid": "ChestCT_adenocar_004",
+    "patient_id": "ChestCT_adenocar_004",
+    "clinical_finding": "Cancer (adenocarcinoma)",
+    "clinical_guideline": "\u0e1e\u0e1a\u0e01\u0e49\u0e2d\u0e19\u0e40\u0e19\u0e37\u0e49\u0e2d\u0e21\u0e30\u0e40\u0e23\u0e47\u0e07\u0e1b\u0e2d\u0e14 \u0e41\u0e19\u0e30\u0e19\u0e33\u0e1b\u0e23\u0e36\u0e01\u0e29\u0e32\u0e41\u0e1e\u0e17\u0e22\u0e4c\u0e40\u0e09\u0e1e\u0e32\u0e30\u0e17\u0e32\u0e07",
+    "malignancy": "Malignant",
+    "texture": "Mass/Nodule",
+    "image_path": "D:\\test\\dataset_ctscan\\data\\test_cases\\test_07_ChestCT_adenocar_004.png"
+  },
+  {
+    "id": "test_08",
+    "seriesuid": "ChestCT_adenocar_005",
+    "patient_id": "ChestCT_adenocar_005",
+    "clinical_finding": "Cancer (adenocarcinoma)",
+    "clinical_guideline": "\u0e1e\u0e1a\u0e01\u0e49\u0e2d\u0e19\u0e40\u0e19\u0e37\u0e49\u0e2d\u0e21\u0e30\u0e40\u0e23\u0e47\u0e07\u0e1b\u0e2d\u0e14 \u0e41\u0e19\u0e30\u0e19\u0e33\u0e1b\u0e23\u0e36\u0e01\u0e29\u0e32\u0e41\u0e1e\u0e17\u0e22\u0e4c\u0e40\u0e09\u0e1e\u0e32\u0e30\u0e17\u0e32\u0e07",
+    "malignancy": "Malignant",
+    "texture": "Mass/Nodule",
+    "image_path": "D:\\test\\dataset_ctscan\\data\\test_cases\\test_08_ChestCT_adenocar_005.png"
+  },
+  {
+    "id": "test_09",
+    "seriesuid": "ChestCT_adenocar_006",
+    "patient_id": "ChestCT_adenocar_006",
+    "clinical_finding": "Cancer (adenocarcinoma)",
+    "clinical_guideline": "\u0e1e\u0e1a\u0e01\u0e49\u0e2d\u0e19\u0e40\u0e19\u0e37\u0e49\u0e2d\u0e21\u0e30\u0e40\u0e23\u0e47\u0e07\u0e1b\u0e2d\u0e14 \u0e41\u0e19\u0e30\u0e19\u0e33\u0e1b\u0e23\u0e36\u0e01\u0e29\u0e32\u0e41\u0e1e\u0e17\u0e22\u0e4c\u0e40\u0e09\u0e1e\u0e32\u0e30\u0e17\u0e32\u0e07",
+    "malignancy": "Malignant",
+    "texture": "Mass/Nodule",
+    "image_path": "D:\\test\\dataset_ctscan\\data\\test_cases\\test_09_ChestCT_adenocar_006.png"
+  },
+  {
+    "id": "test_10",
+    "seriesuid": "ChestCT_adenocar_007",
+    "patient_id": "ChestCT_adenocar_007",
+    "clinical_finding": "Cancer (adenocarcinoma)",
+    "clinical_guideline": "\u0e1e\u0e1a\u0e01\u0e49\u0e2d\u0e19\u0e40\u0e19\u0e37\u0e49\u0e2d\u0e21\u0e30\u0e40\u0e23\u0e47\u0e07\u0e1b\u0e2d\u0e14 \u0e41\u0e19\u0e30\u0e19\u0e33\u0e1b\u0e23\u0e36\u0e01\u0e29\u0e32\u0e41\u0e1e\u0e17\u0e22\u0e4c\u0e40\u0e09\u0e1e\u0e32\u0e30\u0e17\u0e32\u0e07",
+    "malignancy": "Malignant",
+    "texture": "Mass/Nodule",
+    "image_path": "D:\\test\\dataset_ctscan\\data\\test_cases\\test_10_ChestCT_adenocar_007.png"
+  }
+]

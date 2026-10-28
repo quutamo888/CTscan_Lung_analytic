@@ -1,0 +1,15 @@
+[project]
+name = "lung-ctscan-similarity"
+version = "0.1.0"
+description = "ระบบค้นหาและเปรียบเทียบภาพ CT Scan ปอด (K-Top 5) ด้วย Vector Database"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "fastembed>=0.8.0",
+    "gradio>=5.30.0",
+    "numpy>=1.26.0",
+    "pillow>=10.0.0",
+    "pyarrow>=15.0.0",
+    "datasets>=3.0.0",
+    "requests>=2.30.0",
+]
